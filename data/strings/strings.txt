@@ -5841,107 +5841,6 @@
     sk = Plná verzia Organic Maps dnes zadarmo! Stiahnite si teraz a povedzte to svojim priateľom.
     fa = نسخه کامل Organic Maps امروز رایگان است!دانلود کنید و به دوستان خود نیز بگویید
 
-  [move_lite_maps_to_pro]
-    comment = Dialog for transferring maps from lite to pro.
-    tags = android
-    en = We are transferring your downloaded maps from Organic Maps Lite to Organic Maps. It may take a few minutes.
-    ru = Мы переносим загруженные карты из Organic Maps Lite в Organic Maps. Это может занять несколько минут.
-    ar = نحن ننقل خرائط التنزيلات الخاصة بك من Organic Maps Lite إلى Organic Maps. يمكن أن يستغرق بضع دقائق
-    cs = Právě přenášíme vaše stažené mapy z Organic Maps Lite do Organic Maps. Může to několik minut trvat.
-    da = Vi overfører dine downloadede kort fra Organic Maps Lite til Organic Maps. Det kan tage et par minutter.
-    nl = We verplaatsen uw gedownloade kaarten van Organic Maps Lite naar Organic Maps. Dit kan enkele minuten duren.
-    fi = Me siirrämme lataamasi kartat Organic Maps Lite:stä Organic Maps:hen. Siirtäminen voi viedä muutaman minuutin.
-    fr = Nous transférons vos cartes téléchargées de Organic Maps Lite vers Organic Maps. Cela peut prendre quelques minutes.
-    de = Wir übertragen Ihre heruntergeladenen Karten von Organic Maps Lite zu Organic Maps. Dieser Vorgang kann einige Minuten in Anspruch nehmen.
-    hu = Letöltött térképeidet áthelyezzük a Organic Maps Lite-ból a Organic Maps-be. Ez eltarthat pár percig.
-    id = Kami sedang mentransfer peta unduhan Anda dari Organic Maps Lite ke Organic Maps. Proses ini mungkin membutuhkan waktu beberapa menit.
-    it = Stiamo trasferendo le tue mappe scaricate da Organic Maps Lite a Organic Maps. Potrebbe richiedere alcuni minuti.
-    ja = ダウンロード済みの地図をOrganic Maps LiteからOrganic Mapsに転送します。完了までに数分かかるかもしれません。
-    ko = 우리는 Organic Maps. Lite에서 Organic Maps로 다운로드된 지도를 전송하고 있습니다. 이는 몇 분 정도 걸릴 수 있습니다.
-    nb = Vi overfører dine nedlastede kart fra Organic Maps Lite til Organic Maps. Det kan ta noen minutter.
-    pl = Przenosimy twoje pobrane mapy z Organic Maps Lite do Organic Maps. Może to zająć kilka minut.
-    pt = Estamos a transferir os seus mapas descarregados do Organic Maps Lite para o Organic Maps. Isto pode demorar alguns minutos.
-    pt-BR = Estamos transferindo seus mapas baixados do Organic Maps Lite para o Organic Maps. Isto pode demorar alguns minutos.
-    ro = Transferăm hărțile dvs. descărcate din Organic Maps Lite în Organic Maps. Acest lucru poate dura câteva minute.
-    es = Estamos transfiriendo tus mapas descargados de Organic Maps Lite a Organic Maps, lo cual puede llevar unos minutos.
-    sv = Vi flyttar dina nedladdade kartor från Organic Maps Lite till Organic Maps. Det kan ta några minuter.
-    th = เรากำลังโอนแผนที่ที่ดาวน์โหลดของคุณจาก Organic Maps Lite ไปยัง Organic Maps อาจใช้เวลาสองสามวินาที
-    tr = Organic Maps Lite'den indirmiş olduğunuz haritaları Organic Maps'ye aktarıyoruz. Bu bir kaç dakika sürebilir.
-    uk = Ми переносимо завантажені карти з Organic Maps Lite в Organic Maps. Це може зайняти декілька хвилин.
-    vi = Chúng tôi đang chuyển bản đồ đã tải xuống của bạn từ Organic Maps Lite sang Organic Maps. Việc này có thể mất vài phút.
-    zh-Hans = 我们正在将您从Organic Maps Lite 下载的地图传输至 Organic Maps。这可能需要几分钟的时间。
-    zh-Hant = 我們正在將您從 Organic Maps Lite 下載的地圖傳輸至 Organic Maps。這可能需要幾分鐘的時間。
-    he = אנו מעבירים את המפות שהורדתם מ- Organic Maps Liteל-Organic Maps. פעולה זו עשויה להימשך מספר דקות.
-    sk = Práve prenášame Vaše stiahnuté mapy z Organic Maps lite na Organic Maps. Môže to trvať niekoľko minút.
-    fa = ما در حال انتقال نقشه های دانلود شده شما از Organic Maps Lite به Organic Maps هستیم. ممکن است چند دقیقه طول بکشد.
-
-  [move_lite_maps_to_pro_ok]
-    comment = Message to display when maps moved.
-    tags = android
-    en = Your downloaded maps are successfully transferred to Organic Maps.
-    ru = Ваши карты успешно перенесены в Organic Maps.
-    ar = تم بنجاح نقل خرائطك التي تم تنزيلها إلى Organic Maps.
-    cs = Vaše stažené mapy byly úspěšně přeneseny do Organic Maps.
-    da = Dine downloadede kort er blevet succesfuldt overført til Organic Maps.
-    nl = Uw gedownloade kaarten werden met succes verplaatst naar Organic Maps.
-    fi = Lataamasi kartat on siirretty onnistuneesti Organic Maps:hen.
-    fr = Vos cartes téléchargées ont été transférées avec succès vers Organic Maps.
-    de = Ihre heruntergeladenen Karten wurden erfolgreich zu Organic Maps übertragen.
-    hu = Letöltött térképeidet sikeresen áthelyeztük a Organic Maps-be.
-    id = Peta unduhan Anda berhasil ditransfer ke Organic Maps.
-    it = Le mappe che hai scaricato sono state trasferite con successo a Organic Maps.
-    ja = ダウンロード済みの地図は無事Organic Mapsに転送されました
-    ko = 다운로드된 지도가 성공적으로 Organic Maps에 전송됨
-    nb = Nedlastede kart er overført til Organic Maps.
-    pl = Pomyślnie przeniesiono twoje pobrane mapy do Organic Maps.
-    pt = Os seus mapas descarregados foram transferidos com sucesso para a Organic Maps.
-    pt-BR = Seus mapas baixados foram transferidos com sucesso para o Organic Maps.
-    ro = Hărțile dvs. descărcate sunt transferate cu succes către Organic Maps.
-    es = Tus mapas descargados se han transferido correctamente a Organic Maps.
-    sv = Dina nedladdade kartor flyttades till Organic Maps.
-    th = แผนที่ที่ดาวน์โหลดของคุณโอนไปยัง Organic Maps สำเร็จ
-    tr = İndirmiş olduğunuz haritalar başarılı bir şekilde Organic Maps'ye aktarıldı.
-    uk = Ваші карти успішно перенесено в Organic Maps.
-    vi = Bản đồ đã tải xuống của bạn đã được chuyển thành công sang Organic Maps.
-    zh-Hans = 您下载的地图已成功传输至 Organic Maps。
-    zh-Hant = 您下載的地圖已成功傳輸至 Organic Maps。
-    he = המפות שהורדתם הועברו בהצלחה ל-Organic Maps.
-    sk = Vaše stiahnuté mapy sú úspešne prenesené na Organic Maps.
-    fa = نقشه های دانلود شده شما با موفقیت به Organic Maps منتقل شد.
-
-  [move_lite_maps_to_pro_failed]
-    comment = Message to display when maps move failed.
-    tags = android
-    en = Your maps failed to transfer. Please delete Organic Maps Lite and download the maps again.
-    ru = При переносе карт возникла ошибка. Пожалуйста, удалите Organic Maps Lite и загрузите карты заново.
-    ar = فشل نقل خرائطك يُرجى حذف Organic Maps Lite وتنزيل الخرائط مرة أخرى.
-    cs = Vaše mapy se nepodařilo přenést. Prosím, odstraňte Organic Maps Lite a stáhněte si mapy znovu.
-    da = Det lykkedes ikke at overføre dine kort. Slet venligst Organic Maps Lite og download kortene igen.
-    nl = Verplaatsing van uw kaarten mislukt. Gelieve Organic Maps Lite te verwijderen en de kaarten opnieuw te downloaden.
-    fi = Karttoja ei voitu siirtää. Ole hyvä ja poista Organic Maps Lite ja lataa kartat uudelleen.
-    fr = Le transfert de vos cartes a échoué. Veuillez supprimer Organic Maps Lite et télécharger les cartes de nouveau.
-    de = Ihre Karten konnten nicht übertragen werden. Bitte löschen Sie Organic Maps Lite und laden Sie die Karten erneut herunter.
-    hu = Térképeid áthelyezése nem sikerült. Kérjük, töröld a Organic Maps Lite-t és töltsd le a térképet megint.
-    id = Peta Anda gagal ditransfer. Silakan hapus Organic Maps Lite dan unduh peta lagi.
-    it = Non è stato possibile trasferire le tue mappe. Cancella Organic Maps Lite e scarica le mappe di nuovo.
-    ja = 地図の転送に失敗しました。Organic Maps Liteを削除してから地図を再度ダウンロードしてください。
-    ko = 지도를 전송하지 못했습니다. Organic Maps Lite를 삭제하고 다시지도를 다운로드하십시오.
-    nb = Kartene dine ble ikke overført. Slett Organic Maps Lite og last ned kartene på nytt.
-    pl = Nie udało się przenieść twoich map. Proszę skasować Organic Maps Lite i pobrać mapy ponownie.
-    pt = Falhou a transferência dos mapas. Por favor, elimine o Organic Maps Lite e descarregue os mapas novamente.
-    pt-BR = A transferência dos seus mapas falhou. Por favor, elimine o Organic Maps Lite e baixe os mapas novamente.
-    es = No se han podido transferir tus mapas. Por favor, elimina Organic Maps Lite y descarga los mapas de nuevo.
-    sv = Flytten av dina kartor misslyckades. Vänligen ta bort Organic Maps Lite och ladda ner kartorna igen.
-    th = ล้มเหลวในการโอนแผนที่ของคุณ โปรดลบ Organic Maps Lite และดาวน์โหลดแผนที่อีกครั้ง
-    tr = Haritanızın aktarımı başarısız oldu. Lütfen Organic Maps Lite'yi silin ve haritaları tekrar indirin.
-    uk = При переносі карт виникла помилка. Будь ласка, видаліть Organic Maps Lite і завантажте карти знову.
-    vi = Bản đồ của bạn không chuyển được. Vui lòng xóa Organic Maps Lite và tải xuống lại bản đồ.
-    zh-Hans = 您的地图传输失败。请删除 Organic Maps Lite，然后再次下载地图。
-    zh-Hant = 您的地圖傳輸失敗。請刪除 Organic Maps Lite，然後再次下載地圖。
-    he = העברת המפות שלכם נכשלה. אנא מחקו את Organic Maps Lite והורידו שוב את המפות.
-    sk = Vaše mapy sa nepodarilo preniesť. Vymažte prosím Organic Maps Lite a stiahnite si mapy znova.
-    fa = انتقال نقشه با شکست مواجه شد.لطفا Organic Maps Lite حذف کرده و نقشه ها را دوباره دانلود نماید
-
   [settings_and_more]
     comment = Text in menu
     tags = ios, android
@@ -23887,10 +23786,10 @@
     ko = %d 장소
     no = %d sted
     pl = %d miejsce
-    pt:one = %s objeto
-    pt:other = %s objetos
-    pt-BR:one = %s objeto
-    pt-BR:other = %s objetos
+    pt:one = %d objeto
+    pt:other = %d objetos
+    pt-BR:one = %d objeto
+    pt-BR:other = %d objetos
     ro = %d localitate
     es = %d lugar
     es_MX = %d lugar
@@ -23904,8 +23803,8 @@
     sw = Eneo %d
     zh-Hans = %d 地点
     zh-Hant = %d 地點
-    fa:one = %s شیء
-    fa:other = %s شیء
+    fa:one = %d شیء
+    fa:other = %d شیء
 
   [places]
     en:one = %d place
@@ -23928,10 +23827,10 @@
     ko = %d 장소들
     no = %d steder
     pl = %d miejsc
-    pt:one = %s lugar
-    pt:other = %s lugares
-    pt-BR:one = %s lugar
-    pt-BR:other = %s lugares
+    pt:one = %d lugar
+    pt:other = %d lugares
+    pt-BR:one = %d lugar
+    pt-BR:other = %d lugares
     ro = %d localităti
     es = %d lugares
     es_MX = %d lugares
@@ -23969,10 +23868,10 @@
     ko = %d 추적
     no = %d stier
     pl = %d tras
-    pt:one = %s percurso
-    pt:other = %s percursos
-    pt-BR:one = %s percurso
-    pt-BR:other = %s percursos
+    pt:one = %d percurso
+    pt:other = %d percursos
+    pt-BR:one = %d percurso
+    pt-BR:other = %d percursos
     ro = %d localităti
     ro = %d bande
     es = %d seguimientos
@@ -23984,7 +23883,7 @@
     vi = %d các chặn đường
     el = %d διαδρομές
     sk = %d sledovania
-    sw = Njia %s
+    sw = Njia %d
     zh-Hans = %d 跟踪
     zh-Hant = %d 軌跡
     fa:one = %d رد
@@ -24807,9 +24706,9 @@
 
   [why_support_item1]
     en = We respect your privacy: there are zero trackers in the app, and we are open source
+    ru = Мы никому не отсылаем ваши личные данные, а исходный код нашего приложения открыт
     pt = Respeitamos a sua privacidade: não existem rastreadores na aplicação e o código-fonte é aberto
     pt-BR = Respeitamos sua privacidade: não existem rastreadores na app e o código-fonte é aberto
-    ru = Мы никому не отсылаем ваши личные данные, а исходный код нашего приложения открыт
 
   [why_support_item2]
     en = You help us to improve Organic Maps
@@ -27736,7 +27635,7 @@
     ko = 루트가 차량에 맞춰 수정됩니다
     nb = Rute vil oppdateres til kjørerute
     pl = Trasa zostanie zmieniona na samochodową
-    pt = O percurso será convertido num percurso para automóvel 
+    pt = O percurso será convertido num percurso para automóvel
     pt-BR = A rota será alterada para uma de automóvel
     ro = Traseul va fi modificat cu unul automobilistic
     es = La ruta se cambiará a coche
