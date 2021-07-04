@@ -304,12 +304,6 @@
 	<string name="download_map_notification">Stáhněte si mapu místa, kde právě jste</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">Plná verze Organic Maps je dnes zdarma! Stáhněte si ji nyní a dejte vědět přátelům.</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Právě přenášíme vaše stažené mapy z Organic Maps Lite do Organic Maps. Může to několik minut trvat.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Vaše stažené mapy byly úspěšně přeneseny do Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Vaše mapy se nepodařilo přenést. Prosím, odstraňte Organic Maps Lite a stáhněte si mapy znovu.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Nastavení a další</string>
 	<!-- Text in menu -->
@@ -878,7 +872,7 @@
 	<string name="traffic_update_maps_text">Ke zobrazení údajů o provozu musí být aktualizovány mapy.</string>
 	<string name="traffic_outdated">Data o provozu jsou zastaralá.</string>
 	<string name="big_font">Zvětšit velikost písma na mapě</string>
-	<string name="traffic_update_app">Aktualizujte MAPS. ME</string>
+	<string name="traffic_update_app">Aktualizujte Organic Maps</string>
 	<!-- "traffic" as in road congestion -->
 	<string name="traffic_update_app_message">Ke zobrazení dat o provozu je nutné aplikaci aktualizovat.</string>
 	<!-- "traffic" as in "road congestion" -->

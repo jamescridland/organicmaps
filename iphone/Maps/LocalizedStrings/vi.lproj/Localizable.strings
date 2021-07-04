@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Full version of Organic Maps is free today! Download now and tell your friends.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Chúng tôi đang chuyển bản đồ đã tải xuống của bạn từ Organic Maps Lite sang Organic Maps. Việc này có thể mất vài phút.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Bản đồ đã tải xuống của bạn đã được chuyển thành công sang Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Bản đồ của bạn không chuyển được. Vui lòng xóa Organic Maps Lite và tải xuống lại bản đồ.";
-
 /* Text in menu */
 "settings_and_more" = "Thiết lập &amp; Khác";
 

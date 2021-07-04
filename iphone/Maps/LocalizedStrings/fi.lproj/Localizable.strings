@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Full version of Organic Maps is free today! Download now and tell your friends.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Me siirrämme lataamasi kartat Organic Maps Lite:stä Organic Maps:hen. Siirtäminen voi viedä muutaman minuutin.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Lataamasi kartat on siirretty onnistuneesti Organic Maps:hen.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Karttoja ei voitu siirtää. Ole hyvä ja poista Organic Maps Lite ja lataa kartat uudelleen.";
-
 /* Text in menu */
 "settings_and_more" = "Asetukset &amp; Lisää";
 

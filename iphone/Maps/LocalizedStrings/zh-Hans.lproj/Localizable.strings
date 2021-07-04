@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "完整版Organic Maps是免费的今天! 立刻下载并告诉您的好友。";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "我们正在将您从Organic Maps Lite 下载的地图传输至 Organic Maps。这可能需要几分钟的时间。";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "您下载的地图已成功传输至 Organic Maps。";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "您的地图传输失败。请删除 Organic Maps Lite，然后再次下载地图。";
-
 /* Text in menu */
 "settings_and_more" = "设置及更多";
 

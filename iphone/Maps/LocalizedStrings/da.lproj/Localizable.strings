@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Fuld version af Organic Maps er gratis i dag! Download nu og fortæl dine venner om det.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Vi overfører dine downloadede kort fra Organic Maps Lite til Organic Maps. Det kan tage et par minutter.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Dine downloadede kort er blevet succesfuldt overført til Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Det lykkedes ikke at overføre dine kort. Slet venligst Organic Maps Lite og download kortene igen.";
-
 /* Text in menu */
 "settings_and_more" = "Indstillinger & Mere";
 

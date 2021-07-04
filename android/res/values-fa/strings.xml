@@ -291,12 +291,6 @@
 	<string name="download_map_notification">دانلود نقشه جایی که هستید</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">نسخه کامل Organic Maps امروز رایگان است!دانلود کنید و به دوستان خود نیز بگویید</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">ما در حال انتقال نقشه های دانلود شده شما از Organic Maps Lite به Organic Maps هستیم. ممکن است چند دقیقه طول بکشد.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">نقشه های دانلود شده شما با موفقیت به Organic Maps منتقل شد.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">انتقال نقشه با شکست مواجه شد.لطفا Organic Maps Lite حذف کرده و نقشه ها را دوباره دانلود نماید</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">تنظیمات و بیشتر</string>
 	<!-- Text in menu -->
@@ -978,8 +972,8 @@
 	  <item quantity="other">%s شیء</item>
 	</plurals>
 	<plurals name="objects">
-	  <item quantity="one">%s شیء</item>
-	  <item quantity="other">%s شیء</item>
+	  <item quantity="one">%d شیء</item>
+	  <item quantity="other">%d شیء</item>
 	</plurals>
 	<plurals name="places">
 	  <item quantity="one">%d مکان</item>

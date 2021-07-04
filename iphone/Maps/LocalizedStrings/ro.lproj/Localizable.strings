@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Full version of Organic Maps is free today! Download now and tell your friends.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Transferăm hărțile dvs. descărcate din Organic Maps Lite în Organic Maps. Acest lucru poate dura câteva minute.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Hărțile dvs. descărcate sunt transferate cu succes către Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Your maps failed to transfer. Please delete Organic Maps Lite and download the maps again.";
-
 /* Text in menu */
 "settings_and_more" = "Setări și altele";
 
@@ -1548,7 +1539,7 @@
 
 "off" = "Dezactivat";
 
-"prefs_languages_information" = "Pentru instrucțiuni vocale utilizăm sistemul TTS. Multe dispozitive cu Android folosesc Google TTS. Puteți descărca sau actualiza aplicația din Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)";
+"prefs_languages_information" = "We use system TTS for voice instructions. Many Android devices use Google TTS, you can download or update it from Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)";
 
 "prefs_languages_information_off" = "Pentru unele limbi trebuie să instalați alt sintetizator de voce sau un pachet lingvistic suplimentar din Magazinul de aplicații (Google Play Market, Samsung Apps).\nDeschideți setările aplicației → Limbă și introducere → Voce → Conversie text în voce.\nAici puteți administra setările pentru sintetizatoarele vocale (de exemplu, descărcați pachetul lingvistic pentru utilizare offline) și selectați alt motor de conversie din text în voce.";
 

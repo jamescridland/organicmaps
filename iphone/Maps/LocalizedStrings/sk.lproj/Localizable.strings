@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Plná verzia Organic Maps dnes zadarmo! Stiahnite si teraz a povedzte to svojim priateľom.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Práve prenášame Vaše stiahnuté mapy z Organic Maps lite na Organic Maps. Môže to trvať niekoľko minút.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Vaše stiahnuté mapy sú úspešne prenesené na Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Vaše mapy sa nepodarilo preniesť. Vymažte prosím Organic Maps Lite a stiahnite si mapy znova.";
-
 /* Text in menu */
 "settings_and_more" = "Nastavenia a viac";
 

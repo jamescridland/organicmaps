@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Plná verze Organic Maps je dnes zdarma! Stáhněte si ji nyní a dejte vědět přátelům.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Právě přenášíme vaše stažené mapy z Organic Maps Lite do Organic Maps. Může to několik minut trvat.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Vaše stažené mapy byly úspěšně přeneseny do Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Vaše mapy se nepodařilo přenést. Prosím, odstraňte Organic Maps Lite a stáhněte si mapy znovu.";
-
 /* Text in menu */
 "settings_and_more" = "Nastavení a další";
 
@@ -1521,7 +1512,7 @@
 
 "big_font" = "Zvětšit velikost písma na mapě";
 
-"traffic_update_app" = "Aktualizujte MAPS. ME";
+"traffic_update_app" = "Aktualizujte Organic Maps";
 
 /* "traffic" as in road congestion */
 "traffic_update_app_message" = "Ke zobrazení dat o provozu je nutné aplikaci aktualizovat.";

@@ -310,12 +310,6 @@
 	<string name="download_map_notification">Laden Sie die Karte Ihres Standortes herunter</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">Organic Maps heute gratis! Jetzt runterladen &amp; Ihre Freunde informieren</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Wir übertragen Ihre heruntergeladenen Karten von Organic Maps Lite zu Organic Maps. Dieser Vorgang kann einige Minuten in Anspruch nehmen.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Ihre heruntergeladenen Karten wurden erfolgreich zu Organic Maps übertragen.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Ihre Karten konnten nicht übertragen werden. Bitte löschen Sie Organic Maps Lite und laden Sie die Karten erneut herunter.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Einstellungen &amp; mehr</string>
 	<!-- Text in menu -->

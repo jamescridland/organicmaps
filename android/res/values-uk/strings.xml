@@ -309,12 +309,6 @@
 	<string name="download_map_notification">Завантажуйте карту тієї місцевості, де ви знаходитесь</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">Повна версія Organic Maps сьогодні безкоштовна! Завантажуй та розкажи друзям.</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Ми переносимо завантажені карти з Organic Maps Lite в Organic Maps. Це може зайняти декілька хвилин.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Ваші карти успішно перенесено в Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">При переносі карт виникла помилка. Будь ласка, видаліть Organic Maps Lite і завантажте карти знову.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Налаштування</string>
 	<!-- Text in menu -->

@@ -302,12 +302,6 @@
 	<string name="download_map_notification">Stiahnite si mapu miesta, kde sa práve nachádzate</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">Plná verzia Organic Maps dnes zadarmo! Stiahnite si teraz a povedzte to svojim priateľom.</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Práve prenášame Vaše stiahnuté mapy z Organic Maps lite na Organic Maps. Môže to trvať niekoľko minút.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Vaše stiahnuté mapy sú úspešne prenesené na Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Vaše mapy sa nepodarilo preniesť. Vymažte prosím Organic Maps Lite a stiahnite si mapy znova.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Nastavenia a viac</string>
 	<!-- Text in menu -->

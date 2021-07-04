@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "เวอร์ชันเต็มของ Organic Maps วันนี้ฟรี! ดาวน์โหลดตอนนี้แล้วบอกเพื่อน ๆ ของคุณ";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "เรากำลังโอนแผนที่ที่ดาวน์โหลดของคุณจาก Organic Maps Lite ไปยัง Organic Maps อาจใช้เวลาสองสามวินาที";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "แผนที่ที่ดาวน์โหลดของคุณโอนไปยัง Organic Maps สำเร็จ";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "ล้มเหลวในการโอนแผนที่ของคุณ โปรดลบ Organic Maps Lite และดาวน์โหลดแผนที่อีกครั้ง";
-
 /* Text in menu */
 "settings_and_more" = "การตั้งค่า & อื่น ๆ";
 

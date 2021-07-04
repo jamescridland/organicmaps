@@ -19,6 +19,8 @@
       <string>NSStringPluralRuleType</string>
       <key>NSStringFormatValueTypeKey</key>
       <string>d</string>
+      <key>one</key>
+      <string>%d favorito</string>
       <key>other</key>
       <string>%d favoritos</string>
     </dict>
@@ -35,9 +37,9 @@
       <key>NSStringFormatValueTypeKey</key>
       <string>d</string>
       <key>one</key>
-      <string>%d arquivo foi encontrado. Você vai ver depois da conversão.</string>
+      <string>%d ficheiro encontrado. Pode vê-lo depois da conversão.</string>
       <key>other</key>
-      <string>%d arquivos foram encontrados. Você os verá depois da conversão.</string>
+      <string>%d ficheiros encontrados. Pode vê-los depois da conversão.</string>
     </dict>
   </dict>
 
@@ -51,8 +53,10 @@
       <string>NSStringPluralRuleType</string>
       <key>NSStringFormatValueTypeKey</key>
       <string>d</string>
-      <key>other</key>
+      <key>one</key>
       <string>%s objeto</string>
+      <key>other</key>
+      <string>%s objetos</string>
     </dict>
   </dict>
 
@@ -66,8 +70,10 @@
       <string>NSStringPluralRuleType</string>
       <key>NSStringFormatValueTypeKey</key>
       <string>d</string>
+      <key>one</key>
+      <string>%d objeto</string>
       <key>other</key>
-      <string>%d lugar</string>
+      <string>%d objetos</string>
     </dict>
   </dict>
 
@@ -81,6 +87,8 @@
       <string>NSStringPluralRuleType</string>
       <key>NSStringFormatValueTypeKey</key>
       <string>d</string>
+      <key>one</key>
+      <string>%d lugar</string>
       <key>other</key>
       <string>%d lugares</string>
     </dict>
@@ -96,8 +104,10 @@
       <string>NSStringPluralRuleType</string>
       <key>NSStringFormatValueTypeKey</key>
       <string>d</string>
+      <key>one</key>
+      <string>%d percurso</string>
       <key>other</key>
-      <string>%d rastreamentos</string>
+      <string>%d percursos</string>
     </dict>
   </dict>
 </dict>

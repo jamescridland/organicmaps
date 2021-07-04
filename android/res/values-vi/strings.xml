@@ -296,12 +296,6 @@
 	<string name="routes">Tuyến đường</string>
 	<!-- text of notification -->
 	<string name="download_map_notification">Tải xuống bản đồ của vị trí của bạn</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Chúng tôi đang chuyển bản đồ đã tải xuống của bạn từ Organic Maps Lite sang Organic Maps. Việc này có thể mất vài phút.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Bản đồ đã tải xuống của bạn đã được chuyển thành công sang Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Bản đồ của bạn không chuyển được. Vui lòng xóa Organic Maps Lite và tải xuống lại bản đồ.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Thiết lập &amp;amp; Khác</string>
 	<!-- Text in menu -->

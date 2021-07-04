@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Organic Maps tam sürümü bugün ücretsiz! İndir ve arkadaşlarına haber ver.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Organic Maps Lite'den indirmiş olduğunuz haritaları Organic Maps'ye aktarıyoruz. Bu bir kaç dakika sürebilir.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "İndirmiş olduğunuz haritalar başarılı bir şekilde Organic Maps'ye aktarıldı.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Haritanızın aktarımı başarısız oldu. Lütfen Organic Maps Lite'yi silin ve haritaları tekrar indirin.";
-
 /* Text in menu */
 "settings_and_more" = "Ayarlar & Fazlası";
 

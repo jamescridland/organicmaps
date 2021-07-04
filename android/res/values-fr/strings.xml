@@ -312,12 +312,6 @@
 	<string name="download_map_notification">Télécharger la carte de l\'endroit où vous êtes</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">Version complète de Organic Maps gratuite aujourd\'hui ! Téléchargez-le maintenant et dites-le à vos amis.</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Nous transférons vos cartes téléchargées de Organic Maps Lite vers Organic Maps. Cela peut prendre quelques minutes.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Vos cartes téléchargées ont été transférées avec succès vers Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Le transfert de vos cartes a échoué. Veuillez supprimer Organic Maps Lite et télécharger les cartes de nouveau.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Paramètres &amp; plus</string>
 	<!-- Text in menu -->

@@ -296,12 +296,6 @@
 	<string name="routes">Reitit</string>
 	<!-- text of notification -->
 	<string name="download_map_notification">Lataa sijaintisi kartta</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Me siirrämme lataamasi kartat Organic Maps Lite:stä Organic Maps:hen. Siirtäminen voi viedä muutaman minuutin.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Lataamasi kartat on siirretty onnistuneesti Organic Maps:hen.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Karttoja ei voitu siirtää. Ole hyvä ja poista Organic Maps Lite ja lataa kartat uudelleen.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Asetukset &amp;amp; Lisää</string>
 	<!-- Text in menu -->

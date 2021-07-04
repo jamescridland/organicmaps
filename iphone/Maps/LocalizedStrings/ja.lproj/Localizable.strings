@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Organic Mapsのフルバージョンが本日無料！今すぐダウンロードして友達に教えてあげましょう。";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "ダウンロード済みの地図をOrganic Maps LiteからOrganic Mapsに転送します。完了までに数分かかるかもしれません。";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "ダウンロード済みの地図は無事Organic Mapsに転送されました";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "地図の転送に失敗しました。Organic Maps Liteを削除してから地図を再度ダウンロードしてください。";
-
 /* Text in menu */
 "settings_and_more" = "設定&その他";
 

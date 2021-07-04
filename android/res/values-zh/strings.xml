@@ -304,12 +304,6 @@
 	<string name="download_map_notification">下载您所在地方的地图</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">完整版Organic Maps是免费的今天! 立刻下载并告诉您的好友。</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">我们正在将您从Organic Maps Lite 下载的地图传输至 Organic Maps。这可能需要几分钟的时间。</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">您下载的地图已成功传输至 Organic Maps。</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">您的地图传输失败。请删除 Organic Maps Lite，然后再次下载地图。</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">设置及更多</string>
 	<!-- Text in menu -->

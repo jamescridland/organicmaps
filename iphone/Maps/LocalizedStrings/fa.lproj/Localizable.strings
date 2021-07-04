@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "نسخه کامل Organic Maps امروز رایگان است!دانلود کنید و به دوستان خود نیز بگویید";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "ما در حال انتقال نقشه های دانلود شده شما از Organic Maps Lite به Organic Maps هستیم. ممکن است چند دقیقه طول بکشد.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "نقشه های دانلود شده شما با موفقیت به Organic Maps منتقل شد.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "انتقال نقشه با شکست مواجه شد.لطفا Organic Maps Lite حذف کرده و نقشه ها را دوباره دانلود نماید";
-
 /* Text in menu */
 "settings_and_more" = "تنظیمات و بیشتر";
 

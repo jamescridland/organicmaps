@@ -296,12 +296,6 @@
 	<string name="routes">Rute</string>
 	<!-- text of notification -->
 	<string name="download_map_notification">Unduh peta tempat di mana Anda berada sekarang</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Kami sedang mentransfer peta unduhan Anda dari Organic Maps Lite ke Organic Maps. Proses ini mungkin membutuhkan waktu beberapa menit.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Peta unduhan Anda berhasil ditransfer ke Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Peta Anda gagal ditransfer. Silakan hapus Organic Maps Lite dan unduh peta lagi.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Setelan &amp;amp; Lebih Banyak</string>
 	<!-- Text in menu -->

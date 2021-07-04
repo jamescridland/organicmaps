@@ -296,10 +296,6 @@
 	<string name="routes">Trasee</string>
 	<!-- text of notification -->
 	<string name="download_map_notification">Descărcați harta locului în care vă aflați</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Transferăm hărțile dvs. descărcate din Organic Maps Lite în Organic Maps. Acest lucru poate dura câteva minute.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Hărțile dvs. descărcate sunt transferate cu succes către Organic Maps.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Setări și altele</string>
 	<!-- Text in menu -->
@@ -880,7 +876,6 @@
 	<string name="feedback_general">Feedback general</string>
 	<string name="on">Activat</string>
 	<string name="off">Dezactivat</string>
-	<string name="prefs_languages_information">Pentru instrucțiuni vocale utilizăm sistemul TTS. Multe dispozitive cu Android folosesc Google TTS. Puteți descărca sau actualiza aplicația din Google Play (https://play.google.com/store/apps/details?id=com.google.android.tts)</string>
 	<string name="prefs_languages_information_off">Pentru unele limbi trebuie să instalați alt sintetizator de voce sau un pachet lingvistic suplimentar din Magazinul de aplicații (Google Play Market, Samsung Apps).\nDeschideți setările aplicației → Limbă și introducere → Voce → Conversie text în voce.\nAici puteți administra setările pentru sintetizatoarele vocale (de exemplu, descărcați pachetul lingvistic pentru utilizare offline) și selectați alt motor de conversie din text în voce.</string>
 	<string name="prefs_languages_information_off_link">Consultați acest ghid pentru informații suplimentare.</string>
 	<string name="whatsnew_transliteration_title">Transcriere în alfabet latin</string>

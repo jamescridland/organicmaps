@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Version complète de Organic Maps gratuite aujourd'hui ! Téléchargez-le maintenant et dites-le à vos amis.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Nous transférons vos cartes téléchargées de Organic Maps Lite vers Organic Maps. Cela peut prendre quelques minutes.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Vos cartes téléchargées ont été transférées avec succès vers Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Le transfert de vos cartes a échoué. Veuillez supprimer Organic Maps Lite et télécharger les cartes de nouveau.";
-
 /* Text in menu */
 "settings_and_more" = "Paramètres & plus";
 

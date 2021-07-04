@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "A teljes verzió Organic Maps ma ingyenes! Töltsd le most és meséld el barátaidnak.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Letöltött térképeidet áthelyezzük a Organic Maps Lite-ból a Organic Maps-be. Ez eltarthat pár percig.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Letöltött térképeidet sikeresen áthelyeztük a Organic Maps-be.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Térképeid áthelyezése nem sikerült. Kérjük, töröld a Organic Maps Lite-t és töltsd le a térképet megint.";
-
 /* Text in menu */
 "settings_and_more" = "Beállítások és egyéb";
 

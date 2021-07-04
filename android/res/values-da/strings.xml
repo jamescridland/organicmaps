@@ -306,12 +306,6 @@
 	<string name="download_map_notification">Download kortet over det sted, hvor du befinder dig</string>
 	<!-- text of notification -->
 	<string name="pro_version_is_free_today">Fuld version af Organic Maps er gratis i dag! Download nu og fortæl dine venner om det.</string>
-	<!-- Dialog for transferring maps from lite to pro. -->
-	<string name="move_lite_maps_to_pro">Vi overfører dine downloadede kort fra Organic Maps Lite til Organic Maps. Det kan tage et par minutter.</string>
-	<!-- Message to display when maps moved. -->
-	<string name="move_lite_maps_to_pro_ok">Dine downloadede kort er blevet succesfuldt overført til Organic Maps.</string>
-	<!-- Message to display when maps move failed. -->
-	<string name="move_lite_maps_to_pro_failed">Det lykkedes ikke at overføre dine kort. Slet venligst Organic Maps Lite og download kortene igen.</string>
 	<!-- Text in menu -->
 	<string name="settings_and_more">Indstillinger &amp; Mere</string>
 	<!-- Text in menu -->

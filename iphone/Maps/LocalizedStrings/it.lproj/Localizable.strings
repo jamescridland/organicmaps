@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Versione completa di Organic Maps è oggi gratis! Scaricala ora e dillo ai tuoi amici!";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Stiamo trasferendo le tue mappe scaricate da Organic Maps Lite a Organic Maps. Potrebbe richiedere alcuni minuti.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Le mappe che hai scaricato sono state trasferite con successo a Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Non è stato possibile trasferire le tue mappe. Cancella Organic Maps Lite e scarica le mappe di nuovo.";
-
 /* Text in menu */
 "settings_and_more" = "Impostazioni e Altro";
 

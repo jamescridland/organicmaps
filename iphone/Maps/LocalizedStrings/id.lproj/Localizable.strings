@@ -494,15 +494,6 @@
 /* text of notification */
 "pro_version_is_free_today" = "Full version of Organic Maps is free today! Download now and tell your friends.";
 
-/* Dialog for transferring maps from lite to pro. */
-"move_lite_maps_to_pro" = "Kami sedang mentransfer peta unduhan Anda dari Organic Maps Lite ke Organic Maps. Proses ini mungkin membutuhkan waktu beberapa menit.";
-
-/* Message to display when maps moved. */
-"move_lite_maps_to_pro_ok" = "Peta unduhan Anda berhasil ditransfer ke Organic Maps.";
-
-/* Message to display when maps move failed. */
-"move_lite_maps_to_pro_failed" = "Peta Anda gagal ditransfer. Silakan hapus Organic Maps Lite dan unduh peta lagi.";
-
 /* Text in menu */
 "settings_and_more" = "Setelan &amp; Lebih Banyak";
 
