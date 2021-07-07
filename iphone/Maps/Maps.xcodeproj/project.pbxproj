@@ -185,7 +185,6 @@
 		34D3B0481E389D05004100F9 /* MWMNoteCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D3B0151E389D05004100F9 /* MWMNoteCell.m */; };
 		34D3B04B1E389D05004100F9 /* MWMNoteCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 34D3B0161E389D05004100F9 /* MWMNoteCell.xib */; };
 		34D3B04F1E38A20C004100F9 /* Bundle+Init.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34D3B04D1E38A20C004100F9 /* Bundle+Init.swift */; };
-		34E6F2DB1F459C05008E14F9 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 34E6F2DA1F459C05008E14F9 /* GLKit.framework */; };
 		34E776101F14B165003040B3 /* VisibleArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E7760E1F14B165003040B3 /* VisibleArea.swift */; };
 		34E776141F14B17F003040B3 /* AvailableArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E776121F14B17F003040B3 /* AvailableArea.swift */; };
 		34E7761F1F14DB48003040B3 /* PlacePageArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34E7761D1F14DB48003040B3 /* PlacePageArea.swift */; };
@@ -1634,7 +1633,6 @@
 				56EE14D11FE804550036F20C /* libtransit.a in Frameworks */,
 				4586D0E71F4813AB00DF9CE5 /* libmwm_diff.a in Frameworks */,
 				4586D0C41F48121A00DF9CE5 /* libbsdiff.a in Frameworks */,
-				34E6F2DB1F459C05008E14F9 /* GLKit.framework in Frameworks */,
 				3488B03B1E9D13EF0068AFD8 /* UserNotifications.framework in Frameworks */,
 				34D1B6F11E95096B0057E9C7 /* libicu.a in Frameworks */,
 				671E78D31E6A423300B2859B /* librouting_common.a in Frameworks */,
@@ -4453,8 +4451,6 @@
 				CODE_SIGN_STYLE = Manual;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEVELOPMENT_TEAM = 9Z6432XD7L;
-				"EXCLUDED_SOURCE_FILE_NAMES[sdk=iphonesimulator*]" = MetalContextFactory.mm;
-				"EXCLUDED_SOURCE_FILE_NAMES[sdk=macosx*]" = MetalContextFactory.mm;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -4474,8 +4470,6 @@
 				CODE_SIGN_STYLE = Manual;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_TEAM = 9Z6432XD7L;
-				"EXCLUDED_SOURCE_FILE_NAMES[sdk=iphonesimulator*]" = MetalContextFactory.mm;
-				"EXCLUDED_SOURCE_FILE_NAMES[sdk=macosx*]" = MetalContextFactory.mm;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
